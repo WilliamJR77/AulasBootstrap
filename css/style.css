@@ -1,0 +1,39 @@
+.global-logo{
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+body{
+    font:20px 'Arial, sans-serif';  
+    color:white; 
+}
+.navbar {
+    background-color:#58D68D;
+  }
+
+  .quem-somos{
+    background-color:#2874a6b2;
+    
+}
+
+  .margin{
+      padding-top:10px;
+      padding-bottom: 10px;
+  }
+
+  .parceiros{
+      background-color:#58D68D;
+  }
+
+  .servicos{
+      background-color:#F4D03F;
+  }
+
+  .info{
+      margin-top: 5px;
+  }
+
+  .b-footer{
+      color:white;
+      background-color:rgba(0, 0, 0, 0.74)
+  }
